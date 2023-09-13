@@ -1,0 +1,28 @@
+.botao {
+  background-color: #129212;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.botaoLimpar {
+  width: auto;
+  padding: 10px 18px;
+  background-color: #f12e0c;
+  color: white;
+}
+
+input[type=text], input[type=password], input[type=email] {
+  padding: 10px 20px;
+  margin: 8px 0;
+  border: 1px solid #141414;
+}
+
+.fazer {
+    width: auto;
+    padding: 10px 18px;
+    margin-left: 10px;
+    background-color: #72ce47;
+    color: #ffffff;
+}
